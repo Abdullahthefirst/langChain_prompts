@@ -17,3 +17,8 @@ python-dotenv
 
 numpy
 scikit-learn
+pandas
+matplotlib
+
+streamlit
+
